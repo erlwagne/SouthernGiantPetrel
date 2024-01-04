@@ -11,11 +11,6 @@
 # Load libraries
 library(rstanarm)
 library(brms)
-library(ggplot2)
-library(ggnewscale)
-library(RColorBrewer)
-library(gridExtra)
-library(ggpubr)
 
 # Load data
 peak1 <- read.csv("PetPeak.csv")
